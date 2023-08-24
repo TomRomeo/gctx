@@ -1,0 +1,8 @@
+- username: user1
+  email: email1
+  gpgsign: true
+  signingkey: keyid1
+- username: user2
+  email: email2
+  gpgsign: false
+  signingkey: keyid2
